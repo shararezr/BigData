@@ -1,7 +1,9 @@
 Project 1:
+
 The provided Project implements two algorithms for approximating triangle counting in a distributed computing environment using Spark. The first algorithm, MR_ApproxTCwithNodeColors, utilizes a map-reduce approach with node coloring to approximate the number of triangles in a graph. The second algorithm, MR_ApproxTCwithSparkPartitions, leverages Spark partitions for the same purpose.
 The main function reads command-line parameters, including the number of colors (C), the number of repetitions (R), and the file name containing the graph data. It then performs triangle counting using both algorithms and prints the results, including the number of triangles and the running time for each approach.
 Overall, this Project demonstrates the use of Spark for distributed triangle counting, offering two different approximation methods based on node coloring and Spark partitions.
+
 
 
 Project 2:
