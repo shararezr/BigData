@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/language-python-blue.svg)
+
 Project 1:
 
 The provided Project implements two algorithms for approximating triangle counting in a distributed computing environment using Spark. 
