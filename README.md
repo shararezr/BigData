@@ -1,4 +1,5 @@
 ![Python](https://img.shields.io/badge/language-python-blue.svg)
+![PyTorch](https://img.shields.io/badge/framework-PyTorch-orange.svg)
 
 Project 1:
 
