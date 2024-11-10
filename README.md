@@ -93,6 +93,9 @@ To set up and run the projects locally, follow these steps:
 
 1. Clone the repository:
 
+### 1. Clone the repository:
+
    ```bash
-   git clone https://github.com/yourusername/triangle-counting-spark.git
-   cd triangle-counting-spark
+   git clone https://github.com/shararezr/BigData.git
+   cd BigData
+
