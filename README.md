@@ -1,6 +1,3 @@
-![Python](https://img.shields.io/badge/language-python-blue.svg)
-![PyTorch](https://img.shields.io/badge/framework-PyTorch-orange.svg)
-
 # Distributed Triangle Counting and Approximate Frequency Estimation with Spark
 
 ![Python](https://img.shields.io/badge/language-python-blue.svg)
